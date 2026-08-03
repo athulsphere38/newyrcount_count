@@ -6,12 +6,12 @@ body {
   height: 100vh;
   justify-content: center;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-color: rgb(210, 212, 44);
+  background-color: rgb(76, 77, 74);
   overflow: hidden;
 }
 
 h2 {
-  color: rgb(35, 113, 240);
+  color: rgb(152, 180, 225);
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -19,7 +19,7 @@ h2 {
 
 .year {
   font-size: 5em;
-  color: rgb(237, 31, 31);
+  color: rgb(183, 150, 150);
   font-weight: bold;
 }
 
@@ -27,7 +27,7 @@ h2 {
   margin: 30px;
   background-color: rgba(0, 0, 0, 0.1);
   width: 100%;
-  color: rgb(49, 168, 31);
+  color: rgb(15, 50, 10);
   height: 120px;
   display: flex;
   justify-content: center;
